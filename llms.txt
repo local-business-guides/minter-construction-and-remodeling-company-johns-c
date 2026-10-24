@@ -28,6 +28,9 @@
 - [Construction company Brookhaven Project Planning Guide](https://local-business-guides.github.io/minter-construction-and-remodeling-company-johns-c/construction-company-brookhaven/): Construction company Brookhaven guide for homeowners in Brookhaven, Georgia. Prepare your scope, compare proposals and plan construction decisions.
 - [Service establishment Brookhaven Homeowner Contact Guide](https://local-business-guides.github.io/minter-construction-and-remodeling-company-johns-c/service-establishment-brookhaven/): Service establishment Brookhaven guide for Brookhaven, Georgia homeowners. Organize repair details and ask useful questions before arranging service.
 
+## Newsroom
+- [Minter Construction & Remodeling Company Johns Creek Publishes Guide to Kitchen Remodeling Johns Creek](https://local-business-guides.github.io/minter-construction-and-remodeling-company-johns-c/news/2026-10-24-minter-construction-remodeling-company-johns-creek/): Minter Construction & Remodeling Company Johns Creek released a guide to kitchen remodeling johns creek, with video, podcast and audio versions. (2026-10-24)
+
 ## Pages
 - [Kitchen Remodeling Johns Creek in Brookhaven, Georgia](https://local-business-guides.github.io/minter-construction-and-remodeling-company-johns-c/): Make room for better storage, practical finishes and everyday cooking with a kitchen remodel planned around your Brookhaven home. Call +1706-252-1267.
 - [About Minter Construction and Contact in Brookhaven](https://local-business-guides.github.io/minter-construction-and-remodeling-company-johns-c/about/): About Minter Construction & Remodeling Company Johns Creek, Brookhaven.
@@ -35,4 +38,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/minter-construction-and-remodeling-company-johns-c/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/minter-construction-and-remodeling-company-johns-c/news/rss.xml)
 - [Main resource site](https://minter-remodeling-brookhaven.localwebsites.chatgpt.site)

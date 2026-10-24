@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://local-business-guides.github.io/minter-construction-and-remodeling-company-johns-c/sitemap.xml
+Sitemap: https://local-business-guides.github.io/minter-construction-and-remodeling-company-johns-c/news-sitemap.xml
